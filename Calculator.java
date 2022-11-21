@@ -16,6 +16,8 @@ public class Calculator{
     }
   }
 
-  // Your code will go here
+  public static void calculate(int x, int y) {
+    
+  }
   
 }
